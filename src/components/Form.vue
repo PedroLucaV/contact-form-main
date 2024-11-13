@@ -33,15 +33,15 @@
 
 <style scoped>
   input{
-    border-color: hsl(169, 82%, 27%);
     border-radius: 5px;
+    border: 1px solid hsl(169, 82%, 27%);
     min-width: none;
     width: 100%;
     height: 2rem;
   }
 
   button{
-    border-color: hsl(169, 82%, 27%);
+    border: 1px solid hsl(169, 82%, 27%);
     border-radius: 5px;
     min-width: none;
     width: 100%;
